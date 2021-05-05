@@ -1,0 +1,6 @@
+{
+	"osrm_timeout" : 10,
+	"loc_neighbor_dim" : 100,
+	"loc_neighbor_expan" : 50,
+	"min_clinic_sample_size" : 3
+}
